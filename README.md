@@ -29,8 +29,9 @@ Outside work I build side projects, like a multi-channel notification service, a
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
-![](https://github-readme-stats.shion.dev/api?username=Pramod0152&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pramod0152&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pramod152&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Most of my professional work is in private repositories, so this reflects only part of what I build.
+
+![](https://streak-stats.demolab.com/?user=Pramod152&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pramod152&theme=dark&hide_border=false&layout=compact&hide=html,css)

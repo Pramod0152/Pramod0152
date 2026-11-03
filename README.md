@@ -33,4 +33,4 @@ Outside work I build side projects, like a multi-channel notification service, a
 Most of my professional work is in private repositories, so this reflects only part of what I build.
 
 ![](https://streak-stats.demolab.com/?user=Pramod0152&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pramod0152&theme=dark&hide_border=false&layout=compact&hide=html,css)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pramod0152&theme=dark&hide_border=false&layout=compact&hide=html,css,jupyter%20notebook)
